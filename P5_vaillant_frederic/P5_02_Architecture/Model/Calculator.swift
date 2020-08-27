@@ -8,9 +8,6 @@
 
 import Foundation
 
-enum CalculatorError {
-}
-
 class Calculator {
     // MARK: - Properties
     var textViewModel = String()
